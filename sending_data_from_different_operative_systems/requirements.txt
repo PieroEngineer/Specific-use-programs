@@ -1,0 +1,2 @@
+# SFTP and SSH
+paramiko>=3.4
