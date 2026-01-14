@@ -1,0 +1,16 @@
+# Core
+pandas>=2.0
+matplotlib>=3.8
+
+# GUI
+PyQt6>=6.6
+
+# Colors for CLI progress bar
+colorama>=0.4.6
+
+# SharePoint client
+office365-rest-python-client>=2.5.14
+
+# Optional Excel engines
+openpyxl>=3.1  # for .xlsx
+xlrd>=2.0      # for legacy .xls (note: modern xlrd does not read .xlsx)

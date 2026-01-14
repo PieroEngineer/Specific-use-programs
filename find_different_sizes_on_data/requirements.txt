@@ -1,0 +1,6 @@
+# Core
+pandas>=2.0
+openpyxl>=3.1
+
+# Parquet support
+pyarrow>=14.0
