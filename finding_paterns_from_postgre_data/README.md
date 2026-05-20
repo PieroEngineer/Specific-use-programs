@@ -40,7 +40,7 @@ Creates accumulated daily bar charts split by name/category.
 
 ## Dependencies
 
-```bash
+```
 pandas
 polars
 matplotlib
